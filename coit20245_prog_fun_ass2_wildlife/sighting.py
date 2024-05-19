@@ -4,7 +4,7 @@ def display_menu():
 
     print("Menu:")
     print("a. Print help menu")
-    print("b. Exit the program")
+    print("b. Exit the program.")
 
 display_menu()
 # Task 1 End 
